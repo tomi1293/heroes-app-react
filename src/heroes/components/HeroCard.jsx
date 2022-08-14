@@ -9,8 +9,8 @@ export const HeroCard = ({
     characters
 }) => {
 
-    // const heroImageUrl = `/assets/heroes/${id}.jpg`;
-    const heroImageUrl = `/src/img/heroes/${id}.jpg`;
+    const heroImageUrl = `/assets/heroes/${id}.jpg`;
+    // const heroImageUrl = `/src/img/heroes/${id}.jpg`;
 
 
     return (

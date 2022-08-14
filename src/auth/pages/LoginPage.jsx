@@ -30,7 +30,7 @@ export const LoginPage = () => {
       >
         Login
       </button>
-      <img className="img-fluid" src="src/img/fondo/login-bg2.jpg" alt="" />
+      <img className="img-fluid" src="/assets/fondo/login-bg2.jpg" alt="" />
     </div>
   )
 }
